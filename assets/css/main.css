@@ -100,6 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #1e252d;
+		filter: grayscale(100%);
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
